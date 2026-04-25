@@ -62,6 +62,11 @@ This project is documented in Catalan, as it is part of my academic studies at U
 
 ---
 
+## ⚠️ Note on images
+Images in this repository may not display correctly in the GitHub preview due to rendering limitations. However, they should display properly when the files are downloaded locally.
+
+---
+
 ## 👩🏻‍💻 Author
 
 **Claudia Córdoba**
