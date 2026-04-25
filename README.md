@@ -66,7 +66,7 @@ This project is documented in Catalan, as it is part of my academic studies at U
 
 **Claudia Córdoba**
 
-Multimedia student exploring the intersection of technology, physics, and creativity.
+Multimedia student exploring the intersection of technology and creativity.
 
 ---
 
